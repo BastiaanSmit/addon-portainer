@@ -1,5 +1,5 @@
 {
-    "name": "Test Portainer",
-    "url": "https://github.com/barrelltitor/addon-portainer",
-    "maintainer": "aaaae"
+    "name": "Portainer",
+    "url": "https://github.com/BastiaanSmit/addon-portainer",
+    "maintainer": "BastiaanSmit"
 }
